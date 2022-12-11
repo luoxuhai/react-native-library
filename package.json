@@ -1,0 +1,15 @@
+{
+  "name": "rn-kit",
+  "description": "rn-kit monorepo",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
